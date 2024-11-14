@@ -1,0 +1,14 @@
+# TODO:
+- [ ] Make it deploy
+- [ ] Scaffold basic ui with mock data
+- [ ] Attach to a database
+- [ ] Add authentication (w/ clerk)
+- [ ] Add book upload button
+- [ ] Error management (w/ Sentry)
+- [ ] Routing/book page (parallel route)
+- [ ] Delete button (w/ Server Actions)
+- [ ] Edit button (w/ Server Actions)
+- [ ] Search bar
+- [ ] Book details page (parallel route)
+- [ ] Lookup for book details (w/ APIs (Hardcover))
+- [ ] Book viewer (maby parallel route)
